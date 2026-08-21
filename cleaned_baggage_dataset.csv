@@ -1,0 +1,121 @@
+baggage_tag,route_type,transfer_count,baggage_volume,route_distance_km,mishandled,failure,transfer_complexity,distance_group
+BG00001,International,1,389,1155,No,0,10,Medium
+BG00002,International,0,207,4814,No,0,0,Long
+BG00003,unknown,1,104,3034,No,0,10,Long
+BG00004,Domestic,2,142,7321,No,0,20,Very Long
+BG00005,Domestic,2,110,4567,No,0,20,Long
+BG00006,Domestic,3,251,522,Yes,1,30,Medium
+BG00007,International,0,152,5040,No,0,0,Very Long
+BG00008,Domestic,0,437,2201,No,0,0,Long
+BG00009,Domestic,1,396,6722,No,0,10,Very Long
+BG00010,International,1,438,7110,No,0,10,Very Long
+BG00011,Domestic,3,82,3592,No,0,30,Long
+BG00012,International,1,395,5570,No,0,10,Very Long
+BG00013,International,2,87,1606,No,0,20,Long
+BG00014,Domestic,3,283,626,Yes,1,30,Medium
+BG00015,International,1,286,456,No,0,10,Short
+BG00016,International,2,422,1809,No,0,20,Long
+BG00017,Domestic,3,420,1129,No,0,30,Medium
+BG00018,Domestic,1,183,6292,No,0,10,Very Long
+BG00019,International,1,306,284,No,0,10,Short
+BG00020,International,1,441,4658,No,0,10,Long
+BG00021,International,2,406,4534,No,0,20,Long
+BG00022,International,1,318,5099,No,0,10,Very Long
+BG00023,Domestic,3,294,1161,No,0,30,Medium
+BG00024,Domestic,1,443,4593,No,0,10,Long
+BG00025,International,1,232,2559,No,0,10,Long
+BG00026,International,0,351,4070,No,0,0,Long
+BG00027,Domestic,1,398,6298,Yes,1,10,Very Long
+BG00028,International,0,339,4269,No,0,0,Long
+BG00029,Domestic,1,438,4549,No,0,10,Long
+BG00030,Domestic,2,446,7798,No,0,20,Very Long
+BG00031,International,2,126,5057,No,0,20,Very Long
+BG00032,International,0,207,931,No,0,0,Medium
+BG00033,Domestic,0,195,7339,No,0,0,Very Long
+BG00034,International,2,154,6084,Yes,1,20,Very Long
+BG00035,International,1,119,299,No,0,10,Short
+BG00036,International,1,243,6102,No,0,10,Very Long
+BG00037,International,0,275,1179,No,0,0,Medium
+BG00038,Domestic,1,441,7246,No,0,10,Very Long
+BG00039,International,2,288,3855,No,0,20,Long
+BG00040,Domestic,3,264,681,No,0,30,Medium
+BG00041,Domestic,3,402,6861,No,0,30,Very Long
+BG00042,Domestic,1,353,7726,No,0,10,Very Long
+BG00043,Domestic,1,426,4659,No,0,10,Long
+BG00044,International,2,229,8340,No,0,20,Very Long
+BG00045,International,3,199,5690,No,0,30,Very Long
+BG00046,International,3,410,6766,No,0,30,Very Long
+BG00047,Domestic,1,323,2653,Yes,1,10,Long
+BG00048,Domestic,2,176,3822,No,0,20,Long
+BG00049,International,1,331,8083,No,0,10,Very Long
+BG00050,International,0,143,1201,No,0,0,Medium
+BG00051,International,1,104,3914,No,0,10,Long
+BG00052,International,0,162,1321,No,0,0,Medium
+BG00053,Domestic,1,374,3148,No,0,10,Long
+BG00054,International,3,189,2925,No,0,30,Long
+BG00055,Domestic,3,408,4729,No,0,30,Long
+BG00056,Domestic,0,390,506,No,0,0,Medium
+BG00057,Domestic,1,322,8034,No,0,10,Very Long
+BG00058,International,1,282,1426,No,0,10,Medium
+BG00059,International,2,394,905,No,0,20,Medium
+BG00060,Domestic,3,299,3447,No,0,30,Long
+BG00061,Domestic,1,429,8233,No,0,10,Very Long
+BG00062,Domestic,2,116,4246,No,0,20,Long
+BG00063,International,1,211,4722,No,0,10,Long
+BG00064,International,2,218,4913,Yes,1,20,Long
+BG00065,International,1,270,5824,No,0,10,Very Long
+BG00066,International,3,376,8305,Yes,1,30,Very Long
+BG00067,International,3,171,7483,Yes,1,30,Very Long
+BG00068,International,2,115,545,No,0,20,Medium
+BG00069,International,1,430,474,No,0,10,Short
+BG00070,Domestic,2,252,3466,No,0,20,Long
+BG00071,International,2,273,1753,No,0,20,Long
+BG00072,Domestic,0,173,2376,No,0,0,Long
+BG00073,International,0,115,2774,No,0,0,Long
+BG00074,Domestic,0,438,2426,No,0,0,Long
+BG00075,Domestic,1,313,6063,No,0,10,Very Long
+BG00076,International,1,205,6476,Yes,1,10,Very Long
+BG00077,International,0,293,3140,No,0,0,Long
+BG00078,International,3,395,5920,No,0,30,Very Long
+BG00079,Domestic,3,198,1333,No,0,30,Medium
+BG00080,International,1,299,1898,No,0,10,Long
+BG00081,International,1,134,2088,No,0,10,Long
+BG00082,Domestic,0,155,3242,No,0,0,Long
+BG00083,Domestic,3,441,648,No,0,30,Medium
+BG00084,Domestic,3,278,7665,No,0,30,Very Long
+BG00085,International,2,393,5000,No,0,20,Long
+BG00086,Domestic,0,217,1022,No,0,0,Medium
+BG00087,Domestic,3,114,5645,No,0,30,Very Long
+BG00088,Domestic,2,238,2466,No,0,20,Long
+BG00089,Domestic,1,362,7752,No,0,10,Very Long
+BG00090,Domestic,2,364,8068,No,0,20,Very Long
+BG00091,Domestic,3,303,923,No,0,30,Medium
+BG00092,Domestic,1,326,3314,No,0,10,Long
+BG00093,Domestic,3,358,8137,No,0,30,Very Long
+BG00094,International,1,413,4405,No,0,10,Long
+BG00095,Domestic,0,289,3474,No,0,0,Long
+BG00096,International,1,91,4090,No,0,10,Long
+BG00097,International,0,213,5097,No,0,0,Very Long
+BG00098,Domestic,3,316,3937,No,0,30,Long
+BG00099,Domestic,1,439,2150,No,0,10,Long
+BG00100,Domestic,3,143,686,Yes,1,30,Medium
+BG00101,International,1,228,8329,No,0,10,Very Long
+BG00102,Domestic,3,252,6598,No,0,30,Very Long
+BG00103,Domestic,3,235,5875,Yes,1,30,Very Long
+BG00104,International,0,422,452,Yes,1,0,Short
+BG00105,Domestic,3,151,7347,No,0,30,Very Long
+BG00106,Domestic,0,352,5641,No,0,0,Very Long
+BG00107,Domestic,3,233,900,No,0,30,Medium
+BG00108,International,2,225,1063,No,0,20,Medium
+BG00109,Domestic,3,279,1168,No,0,30,Medium
+BG00110,Domestic,3,410,572,No,0,30,Medium
+BG00111,Domestic,3,131,3005,No,0,30,Long
+BG00112,International,3,420,7086,No,0,30,Very Long
+BG00113,Domestic,0,161,7319,No,0,0,Very Long
+BG00114,Domestic,0,89,4912,No,0,0,Long
+BG00115,Domestic,2,418,7356,No,0,20,Very Long
+BG00116,International,3,413,6576,No,0,30,Very Long
+BG00117,Domestic,1,230,6584,No,0,10,Very Long
+BG00118,International,0,229,5564,No,0,0,Very Long
+BG00119,Domestic,0,446,7270,Yes,1,0,Very Long
+BG00120,Domestic,0,406,8083,No,0,0,Very Long
